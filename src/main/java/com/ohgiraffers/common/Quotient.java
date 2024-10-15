@@ -1,6 +1,6 @@
 package com.ohgiraffers.common;
 
-public class quotient {
+public class Quotient {
 
     public int quotient (int num1, int num2) {
 
